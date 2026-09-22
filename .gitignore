@@ -1,0 +1,10 @@
+node_modules
+.next
+.kilo/
+data/*
+!data/projects.js
+!data/coffee-count.json
+.env
+.env.local
+.env.*.local
+!.env.example
